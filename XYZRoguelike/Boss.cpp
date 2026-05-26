@@ -76,6 +76,13 @@ namespace XYZRoguelike
 
 	bool Boss::IsAlive() const
 	{
-		return combatStats != nullptr && combatStats->IsAlive();
+		// Проверяем что GameObject ещё существует перед обращением к компоненту
+		if (gameObject == nullptr || combatStats == nullptr)
+		{
+			return false;
+		}
+		
+		// Проверяем статус через компонент
+		return combatStats->IsAlive();
 	}
 }

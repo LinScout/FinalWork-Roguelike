@@ -27770,3 +27770,378 @@
 [WARNING] Player attack failed: no target in range
 [INFO] Main window closed
 [INFO] Engine shutdown
+[INFO] Logger initialized (console and log.txt)
+[INFO] Engine and game loggers are active
+[INFO] Loading texture map: player from Resources/TextureMaps/Player.png
+[INFO] Texture map loaded: player (elements: 4)
+[INFO] Loading texture map: level_floors from Resources/TextureMaps/Floor.png
+[INFO] Texture map loaded: level_floors (elements: 49)
+[INFO] Loading texture map: level_walls from Resources/TextureMaps/Wall.png
+[INFO] Texture map loaded: level_walls (elements: 48)
+[INFO] Loading texture map: level_forest_floors from Resources/TextureMaps/Levels/Forest/Floor.png
+[INFO] Texture map loaded: level_forest_floors (elements: 49)
+[INFO] Loading texture map: level_forest_walls from Resources/TextureMaps/Levels/Forest/Wall.png
+[INFO] Texture map loaded: level_forest_walls (elements: 48)
+[INFO] Loading texture: background_forest from Resources/Textures/Backgrounds/ForestField.png
+[ERROR] Failed to load texture: background_forest
+[INFO] Loading texture map: level_cave_floors from Resources/TextureMaps/Levels/Cave/Floor.png
+[INFO] Texture map loaded: level_cave_floors (elements: 49)
+[INFO] Loading texture map: level_cave_walls from Resources/TextureMaps/Levels/Cave/Wall.png
+[INFO] Texture map loaded: level_cave_walls (elements: 48)
+[INFO] Loading texture: background_cave from Resources/Textures/Backgrounds/Cave.png
+[ERROR] Failed to load texture: background_cave
+[INFO] Loading texture map: level_castle_floors from Resources/TextureMaps/Levels/Castle/Floor.png
+[INFO] Texture map loaded: level_castle_floors (elements: 49)
+[INFO] Loading texture map: level_castle_walls from Resources/TextureMaps/Levels/Castle/Wall.png
+[INFO] Texture map loaded: level_castle_walls (elements: 48)
+[INFO] Loading texture: background_castle from Resources/Textures/Backgrounds/Palace.png
+[ERROR] Failed to load texture: background_castle
+[INFO] Loading texture: background_default from Resources/TextureMaps/Floor.png
+[INFO] Texture loaded: background_default
+[INFO] Loading texture: portal from Resources/Textures/Portal.png
+[ERROR] Failed to load texture: portal
+[INFO] Loading texture: fireball from Resources/Textures/Fireball.png
+[ERROR] Failed to load texture: fireball
+[INFO] Loading texture: health_potion from Resources/Textures/Items/HealthPotion.png
+[ERROR] Failed to load texture: health_potion
+[INFO] Loading texture: key from Resources/Textures/Items/Key.png
+[ERROR] Failed to load texture: key
+[INFO] Loading texture: sword from Resources/Textures/Items/Sword.png
+[ERROR] Failed to load texture: sword
+[INFO] Loading texture: speed_potion from Resources/Textures/Items/SpeedPotion.png
+[ERROR] Failed to load texture: speed_potion
+[INFO] Loading sound: music from Resources/Sounds/OST.wav
+[INFO] Sound loaded: music
+[ERROR] Texture not found: background_forest
+[ERROR] Texture not found: health_potion
+[ERROR] Texture not found: key
+[ERROR] Texture not found: portal
+[WARNING] Target not found yet: Player
+[INFO] Program was started!
+[INFO] Combat stats font loaded: Resources/Fonts/Roboto-Regular.ttf
+[INFO] Enemy detected player and started chasing
+[INFO] Cave boss: Heal Pulse
+[INFO] Boss attacks Player for 18 damage
+[INFO] Player armor absorbed 10 (armor: 0)
+[INFO] Player took 8 HP damage (92/100)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss armor absorbed 6 (armor: 0)
+[INFO] Boss took 14 HP damage (106/120)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (86/120)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (66/120)
+[INFO] Boss attacks Player for 18 damage
+[INFO] Player took 18 HP damage (74/100)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (46/120)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (26/120)
+[WARNING] Boss is low on health: 26
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (6/120)
+[WARNING] Boss is low on health: 6
+[INFO] Boss attacks Player for 18 damage
+[INFO] Player took 18 HP damage (56/100)
+[ERROR] Texture not found: fireball
+[ERROR] Texture not found: fireball
+[ERROR] Texture not found: fireball
+[ERROR] Texture not found: fireball
+[ERROR] Texture not found: fireball
+[INFO] Cave boss: Orb Volley
+[INFO] Player took 10 HP damage (46/100)
+[INFO] Player took 10 HP damage (36/100)
+[INFO] Player took 10 HP damage (26/100)
+[INFO] Player took 10 HP damage (16/100)
+[WARNING] Player is low on health: 16
+[INFO] Player took 10 HP damage (6/100)
+[WARNING] Player is low on health: 6
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (0/120)
+[WARNING] Boss has been defeated
+[INFO] Player defeated Boss
+[INFO] Clearing game world
+[ERROR] Texture not found: background_cave
+[ERROR] Texture not found: key
+[ERROR] Texture not found: health_potion
+[ERROR] Texture not found: portal
+[WARNING] Target not found yet: Player
+[INFO] Enemy detected player and started chasing
+[INFO] Cave boss: Heal Pulse
+[INFO] Boss attacks Player for 18 damage
+[INFO] Player took 18 HP damage (82/100)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss armor absorbed 6 (armor: 0)
+[INFO] Boss took 14 HP damage (106/120)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (86/120)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (66/120)
+[INFO] Boss attacks Player for 18 damage
+[INFO] Player took 18 HP damage (64/100)
+[ERROR] Texture not found: fireball
+[ERROR] Texture not found: fireball
+[ERROR] Texture not found: fireball
+[ERROR] Texture not found: fireball
+[ERROR] Texture not found: fireball
+[INFO] Cave boss: Orb Volley
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (46/120)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (26/120)
+[WARNING] Boss is low on health: 26
+[INFO] Boss attacks Player for 18 damage
+[INFO] Player took 18 HP damage (46/100)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (6/120)
+[WARNING] Boss is low on health: 6
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (0/120)
+[WARNING] Boss has been defeated
+[INFO] Player defeated Boss
+[INFO] Clearing game world
+[ERROR] Texture not found: background_castle
+[ERROR] Texture not found: sword
+[ERROR] Texture not found: health_potion
+[ERROR] Texture not found: portal
+[WARNING] Target not found yet: Player
+[INFO] Enemy detected player and started chasing
+[INFO] Boss attacks Player for 18 damage
+[INFO] Player took 18 HP damage (28/100)
+[WARNING] Castle boss: Power Strike
+[INFO] Boss attacks Player for 18 damage
+[INFO] Player took 18 HP damage (50/100)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss armor absorbed 10 (armor: 0)
+[INFO] Boss took 10 HP damage (130/140)
+[WARNING] Castle boss: Berserk Rage (speed + attack rate)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (110/140)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (90/140)
+[INFO] Boss attacks Player for 18 damage
+[INFO] Player took 18 HP damage (32/100)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (70/140)
+[INFO] Boss attacks Player for 18 damage
+[INFO] Player took 18 HP damage (14/100)
+[WARNING] Player is low on health: 14
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (50/140)
+[INFO] Boss attacks Player for 18 damage
+[INFO] Player took 18 HP damage (0/100)
+[WARNING] Player has been defeated
+[ERROR] Player was killed by Boss
+[WARNING] Player health restored to continue the game
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (30/140)
+[WARNING] Boss is low on health: 30
+[INFO] Boss attacks Player for 18 damage
+[INFO] Player armor absorbed 10 (armor: 0)
+[INFO] Player took 8 HP damage (92/100)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (10/140)
+[WARNING] Boss is low on health: 10
+[INFO] Boss attacks Player for 18 damage
+[INFO] Player took 18 HP damage (74/100)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (0/140)
+[WARNING] Boss has been defeated
+[INFO] Player defeated Boss
+[INFO] Main window closed
+[INFO] Engine shutdown
+[INFO] Logger initialized (console and log.txt)
+[INFO] Engine and game loggers are active
+[INFO] Loading texture map: player from Resources/TextureMaps/Player.png
+[INFO] Texture map loaded: player (elements: 4)
+[INFO] Loading texture map: level_floors from Resources/TextureMaps/Floor.png
+[INFO] Texture map loaded: level_floors (elements: 49)
+[INFO] Loading texture map: level_walls from Resources/TextureMaps/Wall.png
+[INFO] Texture map loaded: level_walls (elements: 48)
+[INFO] Loading texture map: level_forest_floors from Resources/TextureMaps/Levels/Forest/Floor.png
+[INFO] Texture map loaded: level_forest_floors (elements: 49)
+[INFO] Loading texture map: level_forest_walls from Resources/TextureMaps/Levels/Forest/Wall.png
+[INFO] Texture map loaded: level_forest_walls (elements: 48)
+[INFO] Loading texture: background_forest from Resources/Textures/Backgrounds/ForestField.png
+[ERROR] Failed to load texture: background_forest
+[INFO] Loading texture map: level_cave_floors from Resources/TextureMaps/Levels/Cave/Floor.png
+[INFO] Texture map loaded: level_cave_floors (elements: 49)
+[INFO] Loading texture map: level_cave_walls from Resources/TextureMaps/Levels/Cave/Wall.png
+[INFO] Texture map loaded: level_cave_walls (elements: 48)
+[INFO] Loading texture: background_cave from Resources/Textures/Backgrounds/Cave.png
+[ERROR] Failed to load texture: background_cave
+[INFO] Loading texture map: level_castle_floors from Resources/TextureMaps/Levels/Castle/Floor.png
+[INFO] Texture map loaded: level_castle_floors (elements: 49)
+[INFO] Loading texture map: level_castle_walls from Resources/TextureMaps/Levels/Castle/Wall.png
+[INFO] Texture map loaded: level_castle_walls (elements: 48)
+[INFO] Loading texture: background_castle from Resources/Textures/Backgrounds/Palace.png
+[ERROR] Failed to load texture: background_castle
+[INFO] Loading texture: background_default from Resources/TextureMaps/Floor.png
+[INFO] Texture loaded: background_default
+[INFO] Loading texture: portal from Resources/Textures/Portal.png
+[ERROR] Failed to load texture: portal
+[INFO] Loading texture: fireball from Resources/Textures/Fireball.png
+[ERROR] Failed to load texture: fireball
+[INFO] Loading texture: health_potion from Resources/Textures/Items/HealthPotion.png
+[ERROR] Failed to load texture: health_potion
+[INFO] Loading texture: key from Resources/Textures/Items/Key.png
+[ERROR] Failed to load texture: key
+[INFO] Loading texture: sword from Resources/Textures/Items/Sword.png
+[ERROR] Failed to load texture: sword
+[INFO] Loading texture: speed_potion from Resources/Textures/Items/SpeedPotion.png
+[ERROR] Failed to load texture: speed_potion
+[INFO] Loading sound: music from Resources/Sounds/OST.wav
+[INFO] Sound loaded: music
+[ERROR] Texture not found: background_forest
+[ERROR] Texture not found: health_potion
+[ERROR] Texture not found: key
+[ERROR] Texture not found: portal
+[WARNING] Target not found yet: Player
+[INFO] Program was started!
+[INFO] Combat stats font loaded: Resources/Fonts/Roboto-Regular.ttf
+[INFO] Cave boss: Heal Pulse
+[INFO] Enemy detected player and started chasing
+[INFO] Boss attacks Player for 18 damage
+[INFO] Player armor absorbed 10 (armor: 0)
+[INFO] Player took 8 HP damage (92/100)
+[INFO] Boss attacks Player for 18 damage
+[INFO] Player took 18 HP damage (74/100)
+[ERROR] Texture not found: fireball
+[ERROR] Texture not found: fireball
+[ERROR] Texture not found: fireball
+[ERROR] Texture not found: fireball
+[ERROR] Texture not found: fireball
+[INFO] Cave boss: Orb Volley
+[INFO] Boss attacks Player for 18 damage
+[INFO] Player took 18 HP damage (56/100)
+[INFO] Player took 10 HP damage (46/100)
+[INFO] Player took 10 HP damage (36/100)
+[INFO] Player took 10 HP damage (26/100)
+[INFO] Player took 10 HP damage (16/100)
+[WARNING] Player is low on health: 16
+[INFO] Enemy lost player and stopped
+[INFO] Cave boss: Shadow Rush + player slow
+[INFO] Enemy detected player and started chasing
+[INFO] Boss attacks Player for 18 damage
+[INFO] Player took 18 HP damage (0/100)
+[WARNING] Player has been defeated
+[ERROR] Player was killed by Boss
+[INFO] Clearing game world
+[ERROR] Texture not found: background_forest
+[ERROR] Texture not found: health_potion
+[ERROR] Texture not found: key
+[ERROR] Texture not found: portal
+[WARNING] Target not found yet: Player
+[INFO] Cave boss: Heal Pulse
+[INFO] Enemy detected player and started chasing
+[INFO] Boss attacks Player for 18 damage
+[INFO] Player armor absorbed 10 (armor: 0)
+[INFO] Player took 8 HP damage (92/100)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss armor absorbed 6 (armor: 0)
+[INFO] Boss took 14 HP damage (106/120)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (86/120)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (66/120)
+[INFO] Boss attacks Player for 18 damage
+[INFO] Player took 18 HP damage (74/100)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (46/120)
+[ERROR] Texture not found: fireball
+[ERROR] Texture not found: fireball
+[ERROR] Texture not found: fireball
+[ERROR] Texture not found: fireball
+[ERROR] Texture not found: fireball
+[INFO] Cave boss: Orb Volley
+[INFO] Player took 10 HP damage (64/100)
+[INFO] Player took 10 HP damage (54/100)
+[INFO] Player took 10 HP damage (44/100)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (26/120)
+[WARNING] Boss is low on health: 26
+[INFO] Boss attacks Player for 18 damage
+[INFO] Player took 18 HP damage (82/100)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (6/120)
+[WARNING] Boss is low on health: 6
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (0/120)
+[WARNING] Boss has been defeated
+[INFO] Player defeated Boss
+[INFO] Clearing game world
+[ERROR] Texture not found: background_cave
+[ERROR] Texture not found: key
+[ERROR] Texture not found: health_potion
+[ERROR] Texture not found: portal
+[WARNING] Target not found yet: Player
+[INFO] Enemy detected player and started chasing
+[INFO] Cave boss: Heal Pulse
+[INFO] Boss attacks Player for 18 damage
+[INFO] Player took 18 HP damage (64/100)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss armor absorbed 6 (armor: 0)
+[INFO] Boss took 14 HP damage (106/120)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (86/120)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (66/120)
+[INFO] Boss attacks Player for 18 damage
+[INFO] Player took 18 HP damage (46/100)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (46/120)
+[ERROR] Texture not found: fireball
+[ERROR] Texture not found: fireball
+[ERROR] Texture not found: fireball
+[ERROR] Texture not found: fireball
+[ERROR] Texture not found: fireball
+[INFO] Cave boss: Orb Volley
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (26/120)
+[WARNING] Boss is low on health: 26
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (6/120)
+[WARNING] Boss is low on health: 6
+[INFO] Boss attacks Player for 18 damage
+[INFO] Player took 18 HP damage (28/100)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (0/120)
+[WARNING] Boss has been defeated
+[INFO] Player defeated Boss
+[INFO] Clearing game world
+[ERROR] Texture not found: background_castle
+[ERROR] Texture not found: sword
+[ERROR] Texture not found: health_potion
+[ERROR] Texture not found: portal
+[WARNING] Target not found yet: Player
+[INFO] Enemy detected player and started chasing
+[INFO] Boss attacks Player for 18 damage
+[INFO] Player took 18 HP damage (82/100)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss armor absorbed 10 (armor: 0)
+[INFO] Boss took 10 HP damage (130/140)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (110/140)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (90/140)
+[INFO] Boss attacks Player for 18 damage
+[INFO] Player took 18 HP damage (64/100)
+[WARNING] Castle boss: Power Strike
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (70/140)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (50/140)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (30/140)
+[WARNING] Boss is low on health: 30
+[INFO] Boss attacks Player for 18 damage
+[INFO] Player took 18 HP damage (46/100)
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (10/140)
+[WARNING] Boss is low on health: 10
+[INFO] Player attacks Boss for 20 damage
+[INFO] Boss took 20 HP damage (0/140)
+[WARNING] Boss has been defeated
+[INFO] Player defeated Boss
+[INFO] Main window closed
+[INFO] Engine shutdown

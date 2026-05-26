@@ -171,22 +171,23 @@ namespace XYZEngine
 
 		targetHealth->TakeDamage(damage);
 
+		// Проверяем смерть цели
 		if (!targetHealth->IsAlive())
 		{
 			if (gameObject->GetName() == "Player")
 			{
+				// Игрок убил врага
 				LOG_INFO("Player defeated " + target->GetName());
 				GameWorld::Instance()->DestroyGameObject(target);
 			}
 			else if (target->GetName() == "Player")
 			{
+				// Враг убил игрока - просто логируем, GameSession обработает респавн
 				LOG_ERROR("Player was killed by " + gameObject->GetName());
-				targetHealth->RestoreToFull();
-				targetHealth->SetArmorPoints(10);
-				LOG_WARN("Player health restored to continue the game");
 			}
 			else
 			{
+				// Враг убил другого врага
 				GameWorld::Instance()->DestroyGameObject(target);
 			}
 		}

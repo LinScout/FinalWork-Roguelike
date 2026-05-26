@@ -235,6 +235,7 @@ namespace XYZRoguelike
 			if (!player->GetCombatStats()->IsAlive())
 			{
 				GAME_LOG_WARN("Player died! Restarting from level 1...");
+				std::cout << "\n[GAME OVER] You died! Restarting from the first level...\n" << std::endl;
 				
 				// Сброс инвентаря и состояния
 				inventory.Clear();
@@ -250,6 +251,7 @@ namespace XYZRoguelike
 				});
 				
 				GAME_LOG_INFO("Game restarted from level 1");
+				std::cout << "[GAME] New game started. Good luck!" << std::endl;
 				return;
 			}
 		}

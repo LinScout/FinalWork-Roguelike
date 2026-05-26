@@ -78,14 +78,23 @@ namespace XYZRoguelike
 			statusText.setString("Victory! All locations cleared.");
 			bossStatsText.setString("Boss: none");
 		}
-		else if (boss != nullptr && boss->GetCombatStats() != nullptr && boss->IsAlive())
+		else if (boss != nullptr && boss->IsAlive())
 		{
+			// Безопасная проверка: IsAlive() уже проверяет GameObject и combatStats
 			auto* stats = boss->GetCombatStats();
-			std::ostringstream oss;
-			oss << "Boss HP " << stats->GetHealthPoints() << "/" << stats->GetMaxHealthPoints()
-				<< "  Armor " << stats->GetArmorPoints();
-			bossStatsText.setString(oss.str());
-			statusText.setString("Defeat boss to unlock exit (medium+)");
+			if (stats != nullptr)
+			{
+				std::ostringstream oss;
+				oss << "Boss HP " << stats->GetHealthPoints() << "/" << stats->GetMaxHealthPoints()
+					<< "  Armor " << stats->GetArmorPoints();
+				bossStatsText.setString(oss.str());
+				statusText.setString("Defeat boss to unlock exit (medium+)");
+			}
+			else
+			{
+				bossStatsText.setString("Boss: none");
+				statusText.setString("Reach the portal to travel");
+			}
 		}
 		else
 		{

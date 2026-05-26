@@ -47,6 +47,8 @@ namespace XYZRoguelike
 
 	void GameplayLevel::Start()
 	{
+		// Сбрасываем флаг очистки при старте уровня
+		isCleanedUp = false;
 		bossDefeated = false;
 		exitUnlocked = !requiresBossToExit;
 		levelComplete = false;
@@ -182,8 +184,17 @@ namespace XYZRoguelike
 		transform->SetWorldPosition(position);
 
 		auto renderer = zone->AddComponent<SpriteRendererComponent>();
-		renderer->SetTexture(*ResourceSystem::Instance()->GetTextureMapElementShared(
-			visualTheme.floorMapName, visualTheme.exitPortalTile));
+		// Используем отдельную текстуру портала вместо тайла пола
+		try
+		{
+			renderer->SetTexture(*ResourceSystem::Instance()->GetTextureShared("portal"));
+		}
+		catch (...)
+		{
+			// Fallback на старый вариант с тайлом пола
+			renderer->SetTexture(*ResourceSystem::Instance()->GetTextureMapElementShared(
+				visualTheme.floorMapName, visualTheme.exitPortalTile));
+		}
 		renderer->SetPixelSize(96, 96);
 
 		auto rigidbody = zone->AddComponent<RigidbodyComponent>();
@@ -240,8 +251,49 @@ namespace XYZRoguelike
 		transform->SetWorldPosition(pickup.position);
 
 		auto renderer = pickupObj->AddComponent<SpriteRendererComponent>();
-		renderer->SetTexture(*ResourceSystem::Instance()->GetTextureMapElementShared(
-			visualTheme.floorMapName, visualTheme.pickupTile));
+		
+		// Выбираем текстуру в зависимости от типа предмета
+		std::string textureName;
+		switch (pickup.itemType)
+		{
+		case InventoryItemType::HealthPotion:
+			textureName = "health_potion";
+			break;
+		case InventoryItemType::Key:
+			textureName = "key";
+			break;
+		case InventoryItemType::Weapon:
+			textureName = "sword";
+			break;
+		case InventoryItemType::SpeedPotion:
+			textureName = "speed_potion";
+			break;
+		default:
+			textureName = "";
+			break;
+		}
+
+		// Пытаемся загрузить отдельную текстуру, если не получается - используем тайл пола
+		if (!textureName.empty())
+		{
+			try
+			{
+				renderer->SetTexture(*ResourceSystem::Instance()->GetTextureShared(textureName));
+			}
+			catch (...)
+			{
+				// Fallback на старый вариант с тайлом пола
+				renderer->SetTexture(*ResourceSystem::Instance()->GetTextureMapElementShared(
+					visualTheme.floorMapName, visualTheme.pickupTile));
+			}
+		}
+		else
+		{
+			// Если тип неизвестен, используем тайл пола
+			renderer->SetTexture(*ResourceSystem::Instance()->GetTextureMapElementShared(
+				visualTheme.floorMapName, visualTheme.pickupTile));
+		}
+		
 		renderer->SetPixelSize(64, 64);
 
 		auto rigidbody = pickupObj->AddComponent<RigidbodyComponent>();
@@ -288,11 +340,18 @@ namespace XYZRoguelike
 
 	void GameplayLevel::Update(float timeDelta)
 	{
-		if (boss != nullptr && boss->IsAlive() == false && !bossDefeated)
+		// Проверяем босса только если он существует и ещё не был помечен как побеждённый
+		if (boss != nullptr && !bossDefeated)
 		{
-			bossDefeated = true;
-			exitUnlocked = true;
-			GAME_LOG_INFO("Boss defeated — exit unlocked");
+			// Проверяем жив ли босс через безопасный метод
+			if (!boss->IsAlive())
+			{
+				bossDefeated = true;
+				exitUnlocked = true;
+				// Сразу обнуляем указатель на босса, чтобы избежать dangling pointer
+				boss.reset();
+				GAME_LOG_INFO("Boss defeated — exit unlocked");
+			}
 		}
 
 		playerOnExit = false;

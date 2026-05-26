@@ -75,6 +75,14 @@ int main()
 
 	TryLoadTexture("background_default", "Resources/TextureMaps/Floor.png");
 
+	// Загрузка текстур для игровых объектов
+	TryLoadTexture("portal", "Resources/Textures/Portal.png");
+	TryLoadTexture("fireball", "Resources/Textures/Fireball.png");
+	TryLoadTexture("health_potion", "Resources/Textures/Items/HealthPotion.png");
+	TryLoadTexture("key", "Resources/Textures/Items/Key.png");
+	TryLoadTexture("sword", "Resources/Textures/Items/Sword.png");
+	TryLoadTexture("speed_potion", "Resources/Textures/Items/SpeedPotion.png");
+
 	try
 	{
 		XYZEngine::ResourceSystem::Instance()->LoadSound("music", "Resources/Sounds/OST.wav");

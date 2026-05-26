@@ -11,9 +11,9 @@ namespace XYZRoguelike
 	void ForestLocation::ConfigureLevel()
 	{
 		pickups.clear();
-		requiresBossToExit = false;
+		// Первая локация требует убийства босса для выхода (как и остальные)
+		requiresBossToExit = true;
 		spawnBossOnStart = true;
-		exitUnlocked = false;
 		bossArchetype = XYZEngine::BossArchetype::Cave;
 		playerSpawn = { 3.f * 128.f, 6.f * 128.f };
 		exitPosition = { 10.f * 128.f, 6.f * 128.f };
