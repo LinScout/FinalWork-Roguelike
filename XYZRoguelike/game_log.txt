@@ -1,0 +1,1814 @@
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Resources loaded successfully
+[INFO] CombatHud initialized
+[INFO] DeveloperLevel: building level
+[INFO] Creating perimeter walls
+[INFO] Placing floor tiles
+[INFO] DeveloperLevel: spawning player with CombatStatsComponent and AttackComponent
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] DeveloperLevel: spawning enemy with CombatStatsComponent and AttackComponent
+[INFO] Creating enemy entity
+[INFO] Enemy ready: HP 50/50, armor 5, auto-attack when chasing
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] DeveloperLevel: level ready
+[ERROR] Handled critical situation: Sound not found: missing_sound_for_test
+[INFO] Combat HUD overlay registered
+[INFO] XYZRoguelike finished
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Resources loaded successfully
+[INFO] CombatHud initialized
+[INFO] DeveloperLevel: building level
+[INFO] Creating perimeter walls
+[INFO] Placing floor tiles
+[INFO] DeveloperLevel: spawning player with CombatStatsComponent and AttackComponent
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] DeveloperLevel: spawning enemy with CombatStatsComponent and AttackComponent
+[INFO] Creating enemy entity
+[INFO] Enemy ready: HP 50/50, armor 5, auto-attack when chasing
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] DeveloperLevel: level ready
+[ERROR] Handled critical situation: Sound not found: missing_sound_for_test
+[INFO] Combat HUD overlay registered
+[INFO] XYZRoguelike finished
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Resources loaded successfully
+[INFO] CombatHud initialized
+[INFO] DeveloperLevel: building level
+[INFO] Creating perimeter walls
+[INFO] Placing floor tiles
+[INFO] DeveloperLevel: spawning player with CombatStatsComponent and AttackComponent
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] DeveloperLevel: spawning enemy with CombatStatsComponent and AttackComponent
+[INFO] Creating enemy entity
+[INFO] Enemy ready: HP 50/50, armor 5, auto-attack when chasing
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] DeveloperLevel: level ready
+[ERROR] Handled critical situation: Sound not found: missing_sound_for_test
+[INFO] Combat HUD overlay registered
+[INFO] XYZRoguelike finished
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Resources loaded successfully
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Starter inventory: Health Potion x1
+[INFO] Creating perimeter walls
+[INFO] Placing floor tiles
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] Player reached level exit
+[INFO] Level cleaned: Forest
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Spawning boss
+[INFO] Boss ready (HP 120, armor 8)
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Cave
+[INFO] Loaded level: Cave
+[INFO] Player recreated on new location
+[INFO] Inventory updated: Health Potion x1, Dungeon Key x1
+[INFO] Pickup collected
+[INFO] Inventory updated: Health Potion x3, Dungeon Key x1
+[INFO] Pickup collected
+[WARNING] Exit is locked. Defeat the boss or use a key.
+[WARNING] Exit is locked. Defeat the boss or use a key.
+[WARNING] Exit is locked. Defeat the boss or use a key.
+[INFO] Boss defeated — exit unlocked
+[INFO] Player reached level exit
+[INFO] Level cleaned: Cave
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Spawning boss
+[INFO] Boss ready (HP 120, armor 8)
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Castle
+[INFO] Loaded level: Castle
+[INFO] Player recreated on new location
+[INFO] XYZRoguelike finished
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Resources loaded successfully
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[INFO] Creating perimeter walls
+[INFO] Placing floor tiles
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] Inventory updated: Health Potion x2
+[INFO] Pickup collected
+[INFO] Player reached level exit
+[INFO] Level cleaned: Forest
+[INFO] Spawning boss
+[INFO] Boss ready (HP 120, armor 8)
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Cave
+[INFO] Loaded level: Cave
+[INFO] Player recreated on new location
+[INFO] Boss defeated — exit unlocked
+[INFO] Inventory updated: Health Potion x4
+[INFO] Pickup collected
+[INFO] Inventory updated: Health Potion x4, Dungeon Key x1
+[INFO] Pickup collected
+[INFO] Used health potion
+[INFO] Used health potion
+[INFO] Used health potion
+[INFO] Used health potion
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[INFO] Player reached level exit
+[INFO] Level cleaned: Cave
+[INFO] Spawning boss
+[INFO] Boss ready (HP 120, armor 8)
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Castle
+[INFO] Loaded level: Castle
+[INFO] Player recreated on new location
+[INFO] Boss defeated — exit unlocked
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[INFO] Inventory updated: Health Potion x1, Dungeon Key x1
+[INFO] Pickup collected
+[INFO] Inventory updated: Health Potion x1, Dungeon Key x1, Iron Sword x1
+[INFO] Pickup collected
+[INFO] Weapon equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[INFO] Player reached level exit
+[INFO] All locations cleared — victory!
+[INFO] Player reached level exit
+[INFO] All locations cleared — victory!
+[INFO] XYZRoguelike finished
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[WARNING] Texture map fallback for level_forest_floors: Failed to load resource 'level_forest_floors' from 'Resources/TextureMaps/Levels/Forest/Floor.png'
+[WARNING] Texture map fallback for level_forest_walls: Failed to load resource 'level_forest_walls' from 'Resources/TextureMaps/Levels/Forest/Wall.png'
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[WARNING] Texture map fallback for level_cave_floors: Failed to load resource 'level_cave_floors' from 'Resources/TextureMaps/Levels/Cave/Floor.png'
+[WARNING] Texture map fallback for level_cave_walls: Failed to load resource 'level_cave_walls' from 'Resources/TextureMaps/Levels/Cave/Wall.png'
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[WARNING] Texture map fallback for level_castle_floors: Failed to load resource 'level_castle_floors' from 'Resources/TextureMaps/Levels/Castle/Floor.png'
+[WARNING] Texture map fallback for level_castle_walls: Failed to load resource 'level_castle_walls' from 'Resources/TextureMaps/Levels/Castle/Wall.png'
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[WARNING] Texture map fallback for level_forest_floors: Failed to load resource 'level_forest_floors' from 'Resources/TextureMaps/Levels/Forest/Floor.png'
+[WARNING] Texture map fallback for level_forest_walls: Failed to load resource 'level_forest_walls' from 'Resources/TextureMaps/Levels/Forest/Wall.png'
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[WARNING] Texture map fallback for level_cave_floors: Failed to load resource 'level_cave_floors' from 'Resources/TextureMaps/Levels/Cave/Floor.png'
+[WARNING] Texture map fallback for level_cave_walls: Failed to load resource 'level_cave_walls' from 'Resources/TextureMaps/Levels/Cave/Wall.png'
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[WARNING] Texture map fallback for level_castle_floors: Failed to load resource 'level_castle_floors' from 'Resources/TextureMaps/Levels/Castle/Floor.png'
+[WARNING] Texture map fallback for level_castle_walls: Failed to load resource 'level_castle_walls' from 'Resources/TextureMaps/Levels/Castle/Wall.png'
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[WARNING] Texture map fallback for level_forest_floors: Failed to load resource 'level_forest_floors' from 'Resources/TextureMaps/Levels/Forest/Floor.png'
+[WARNING] Texture map fallback for level_forest_walls: Failed to load resource 'level_forest_walls' from 'Resources/TextureMaps/Levels/Forest/Wall.png'
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[WARNING] Texture map fallback for level_cave_floors: Failed to load resource 'level_cave_floors' from 'Resources/TextureMaps/Levels/Cave/Floor.png'
+[WARNING] Texture map fallback for level_cave_walls: Failed to load resource 'level_cave_walls' from 'Resources/TextureMaps/Levels/Cave/Wall.png'
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[WARNING] Texture map fallback for level_castle_floors: Failed to load resource 'level_castle_floors' from 'Resources/TextureMaps/Levels/Castle/Floor.png'
+[WARNING] Texture map fallback for level_castle_walls: Failed to load resource 'level_castle_walls' from 'Resources/TextureMaps/Levels/Castle/Wall.png'
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[WARNING] Texture map fallback for level_forest_floors: Failed to load resource 'level_forest_floors' from 'Resources/TextureMaps/Levels/Forest/Floor.png'
+[WARNING] Texture map fallback for level_forest_walls: Failed to load resource 'level_forest_walls' from 'Resources/TextureMaps/Levels/Forest/Wall.png'
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[WARNING] Texture map fallback for level_cave_floors: Failed to load resource 'level_cave_floors' from 'Resources/TextureMaps/Levels/Cave/Floor.png'
+[WARNING] Texture map fallback for level_cave_walls: Failed to load resource 'level_cave_walls' from 'Resources/TextureMaps/Levels/Cave/Wall.png'
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[WARNING] Texture map fallback for level_castle_floors: Failed to load resource 'level_castle_floors' from 'Resources/TextureMaps/Levels/Castle/Floor.png'
+[WARNING] Texture map fallback for level_castle_walls: Failed to load resource 'level_castle_walls' from 'Resources/TextureMaps/Levels/Castle/Wall.png'
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[WARNING] Texture map fallback for level_forest_floors: Failed to load resource 'level_forest_floors' from 'Resources/TextureMaps/Levels/Forest/Floor.png'
+[WARNING] Texture map fallback for level_forest_walls: Failed to load resource 'level_forest_walls' from 'Resources/TextureMaps/Levels/Forest/Wall.png'
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[WARNING] Texture map fallback for level_cave_floors: Failed to load resource 'level_cave_floors' from 'Resources/TextureMaps/Levels/Cave/Floor.png'
+[WARNING] Texture map fallback for level_cave_walls: Failed to load resource 'level_cave_walls' from 'Resources/TextureMaps/Levels/Cave/Wall.png'
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[WARNING] Texture map fallback for level_castle_floors: Failed to load resource 'level_castle_floors' from 'Resources/TextureMaps/Levels/Castle/Floor.png'
+[WARNING] Texture map fallback for level_castle_walls: Failed to load resource 'level_castle_walls' from 'Resources/TextureMaps/Levels/Castle/Wall.png'
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[WARNING] Texture map fallback for level_forest_floors: Failed to load resource 'level_forest_floors' from 'Resources/TextureMaps/Levels/Forest/Floor.png'
+[WARNING] Texture map fallback for level_forest_walls: Failed to load resource 'level_forest_walls' from 'Resources/TextureMaps/Levels/Forest/Wall.png'
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[WARNING] Texture map fallback for level_cave_floors: Failed to load resource 'level_cave_floors' from 'Resources/TextureMaps/Levels/Cave/Floor.png'
+[WARNING] Texture map fallback for level_cave_walls: Failed to load resource 'level_cave_walls' from 'Resources/TextureMaps/Levels/Cave/Wall.png'
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[WARNING] Texture map fallback for level_castle_floors: Failed to load resource 'level_castle_floors' from 'Resources/TextureMaps/Levels/Castle/Floor.png'
+[WARNING] Texture map fallback for level_castle_walls: Failed to load resource 'level_castle_walls' from 'Resources/TextureMaps/Levels/Castle/Wall.png'
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[INFO] Loaded texture map: level_forest_floors
+[INFO] Loaded texture map: level_forest_walls
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[INFO] Loaded texture map: level_cave_floors
+[INFO] Loaded texture map: level_cave_walls
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[INFO] Loaded texture map: level_castle_floors
+[INFO] Loaded texture map: level_castle_walls
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Background created: background_forest
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] Inventory updated: Health Potion x2
+[INFO] Pickup collected
+[INFO] Player reached level exit
+[INFO] Level cleaned: Forest
+[WARNING] Background texture missing: background_cave, using floor tile as fallback
+[INFO] Background created: background_cave
+[INFO] Spawning boss
+[INFO] Boss ready (HP 120, armor 8)
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Cave
+[INFO] Loaded level: Cave
+[INFO] Player recreated on new location
+[INFO] Boss defeated — exit unlocked
+[INFO] Inventory updated: Health Potion x4
+[INFO] Pickup collected
+[INFO] Inventory updated: Health Potion x4, Dungeon Key x1
+[INFO] Pickup collected
+[INFO] Player reached level exit
+[INFO] Level cleaned: Cave
+[WARNING] Background texture missing: background_castle, using floor tile as fallback
+[INFO] Background created: background_castle
+[INFO] Spawning boss
+[INFO] Boss ready (HP 120, armor 8)
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Castle
+[INFO] Loaded level: Castle
+[INFO] Player recreated on new location
+[INFO] Inventory updated: Health Potion x4, Dungeon Key x1, Iron Sword x1
+[INFO] Pickup collected
+[INFO] Weapon equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[INFO] Boss defeated — exit unlocked
+[INFO] XYZRoguelike finished
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[INFO] Loaded texture map: level_forest_floors
+[INFO] Loaded texture map: level_forest_walls
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[INFO] Loaded texture map: level_cave_floors
+[INFO] Loaded texture map: level_cave_walls
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[INFO] Loaded texture map: level_castle_floors
+[INFO] Loaded texture map: level_castle_walls
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Background created: background_forest
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] Inventory updated: Health Potion x2
+[INFO] Pickup collected
+[INFO] Player reached level exit
+[INFO] Level cleaned: Forest
+[WARNING] Background texture missing: background_cave, using floor tile as fallback
+[INFO] Background created: background_cave
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Cave
+[INFO] Loaded level: Cave
+[INFO] Player recreated on new location
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[INFO] Loaded texture map: level_forest_floors
+[INFO] Loaded texture map: level_forest_walls
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[INFO] Loaded texture map: level_cave_floors
+[INFO] Loaded texture map: level_cave_walls
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[INFO] Loaded texture map: level_castle_floors
+[INFO] Loaded texture map: level_castle_walls
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Background created: background_forest
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] Inventory updated: Health Potion x2
+[INFO] Pickup collected
+[INFO] Player reached level exit
+[INFO] Level cleaned: Forest
+[WARNING] Background texture missing: background_cave, using floor tile as fallback
+[INFO] Background created: background_cave
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Cave
+[INFO] Loaded level: Cave
+[INFO] Player recreated on new location
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[INFO] Loaded texture map: level_forest_floors
+[INFO] Loaded texture map: level_forest_walls
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[INFO] Loaded texture map: level_cave_floors
+[INFO] Loaded texture map: level_cave_walls
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[INFO] Loaded texture map: level_castle_floors
+[INFO] Loaded texture map: level_castle_walls
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Background created: background_forest
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] Player reached level exit
+[INFO] Level cleaned: Forest
+[WARNING] Background texture missing: background_cave, using floor tile as fallback
+[INFO] Background created: background_cave
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Cave
+[INFO] Loaded level: Cave
+[INFO] Player recreated on new location
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[INFO] Loaded texture map: level_forest_floors
+[INFO] Loaded texture map: level_forest_walls
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[INFO] Loaded texture map: level_cave_floors
+[INFO] Loaded texture map: level_cave_walls
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[INFO] Loaded texture map: level_castle_floors
+[INFO] Loaded texture map: level_castle_walls
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Background created: background_forest
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] Inventory updated: Health Potion x3
+[INFO] Pickup collected
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[INFO] Loaded texture map: level_forest_floors
+[INFO] Loaded texture map: level_forest_walls
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[INFO] Loaded texture map: level_cave_floors
+[INFO] Loaded texture map: level_cave_walls
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[INFO] Loaded texture map: level_castle_floors
+[INFO] Loaded texture map: level_castle_walls
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Background created: background_forest
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] Inventory updated: Health Potion x3
+[INFO] Pickup collected
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[INFO] Loaded texture map: level_forest_floors
+[INFO] Loaded texture map: level_forest_walls
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[INFO] Loaded texture map: level_cave_floors
+[INFO] Loaded texture map: level_cave_walls
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[INFO] Loaded texture map: level_castle_floors
+[INFO] Loaded texture map: level_castle_walls
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Background created: background_forest
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] Inventory updated: Health Potion x3
+[INFO] Pickup collected
+[INFO] Inventory updated: Health Potion x3, Dungeon Key x1
+[INFO] Pickup collected
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[INFO] Loaded texture map: level_forest_floors
+[INFO] Loaded texture map: level_forest_walls
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[INFO] Loaded texture map: level_cave_floors
+[INFO] Loaded texture map: level_cave_walls
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[INFO] Loaded texture map: level_castle_floors
+[INFO] Loaded texture map: level_castle_walls
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Background created: background_forest
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] Inventory updated: Health Potion x3
+[INFO] Pickup collected
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[INFO] Loaded texture map: level_forest_floors
+[INFO] Loaded texture map: level_forest_walls
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[INFO] Loaded texture map: level_cave_floors
+[INFO] Loaded texture map: level_cave_walls
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[INFO] Loaded texture map: level_castle_floors
+[INFO] Loaded texture map: level_castle_walls
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Background created: background_forest
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] Inventory updated: Health Potion x3
+[INFO] Pickup collected
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[INFO] Loaded texture map: level_forest_floors
+[INFO] Loaded texture map: level_forest_walls
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[INFO] Loaded texture map: level_cave_floors
+[INFO] Loaded texture map: level_cave_walls
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[INFO] Loaded texture map: level_castle_floors
+[INFO] Loaded texture map: level_castle_walls
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Background created: background_forest
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] Inventory updated: Health Potion x3
+[INFO] Pickup collected
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[INFO] Loaded texture map: level_forest_floors
+[INFO] Loaded texture map: level_forest_walls
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[INFO] Loaded texture map: level_cave_floors
+[INFO] Loaded texture map: level_cave_walls
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[INFO] Loaded texture map: level_castle_floors
+[INFO] Loaded texture map: level_castle_walls
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Background created: background_forest
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] Inventory updated: Health Potion x3
+[INFO] Pickup collected
+[INFO] Boss defeated — exit unlocked
+[INFO] Used health potion
+[INFO] Used health potion
+[INFO] Used health potion
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[INFO] Inventory updated: Dungeon Key x1
+[INFO] Pickup collected
+[INFO] Player reached level exit
+[INFO] Level cleaned: Forest
+[WARNING] Background texture missing: background_cave, using floor tile as fallback
+[INFO] Background created: background_cave
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Cave
+[INFO] Loaded level: Cave
+[INFO] Player recreated on new location
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[INFO] Loaded texture map: level_forest_floors
+[INFO] Loaded texture map: level_forest_walls
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[INFO] Loaded texture map: level_cave_floors
+[INFO] Loaded texture map: level_cave_walls
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[INFO] Loaded texture map: level_castle_floors
+[INFO] Loaded texture map: level_castle_walls
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Background created: background_forest
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] Inventory updated: Health Potion x3
+[INFO] Pickup collected
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[INFO] Loaded texture map: level_forest_floors
+[INFO] Loaded texture map: level_forest_walls
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[INFO] Loaded texture map: level_cave_floors
+[INFO] Loaded texture map: level_cave_walls
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[INFO] Loaded texture map: level_castle_floors
+[INFO] Loaded texture map: level_castle_walls
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Background created: background_forest
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] Inventory updated: Health Potion x3
+[INFO] Pickup collected
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[INFO] Loaded texture map: level_forest_floors
+[INFO] Loaded texture map: level_forest_walls
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[INFO] Loaded texture map: level_cave_floors
+[INFO] Loaded texture map: level_cave_walls
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[INFO] Loaded texture map: level_castle_floors
+[INFO] Loaded texture map: level_castle_walls
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Background created: background_forest
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] Inventory updated: Health Potion x3
+[INFO] Pickup collected
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[INFO] Loaded texture map: level_forest_floors
+[INFO] Loaded texture map: level_forest_walls
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[INFO] Loaded texture map: level_cave_floors
+[INFO] Loaded texture map: level_cave_walls
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[INFO] Loaded texture map: level_castle_floors
+[INFO] Loaded texture map: level_castle_walls
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Background created: background_forest
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[INFO] Loaded texture map: level_forest_floors
+[INFO] Loaded texture map: level_forest_walls
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[INFO] Loaded texture map: level_cave_floors
+[INFO] Loaded texture map: level_cave_walls
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[INFO] Loaded texture map: level_castle_floors
+[INFO] Loaded texture map: level_castle_walls
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Background created: background_forest
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] Inventory updated: Health Potion x3
+[INFO] Pickup collected
+[INFO] Boss defeated — exit unlocked
+[INFO] Inventory updated: Health Potion x3, Dungeon Key x1
+[INFO] Pickup collected
+[INFO] Player reached level exit
+[INFO] Level cleaned: Forest
+[WARNING] Background texture missing: background_cave, using floor tile as fallback
+[INFO] Background created: background_cave
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Cave
+[INFO] Loaded level: Cave
+[INFO] Player recreated on new location
+[INFO] Exit unlocked by key
+[INFO] Used health potion
+[INFO] Used health potion
+[INFO] Used health potion
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[INFO] Inventory updated: Health Potion x2
+[INFO] Pickup collected
+[INFO] Inventory updated: Health Potion x2, Dungeon Key x1
+[INFO] Pickup collected
+[INFO] Used health potion
+[INFO] Used health potion
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[INFO] Boss defeated — exit unlocked
+[INFO] Player reached level exit
+[INFO] Level cleaned: Cave
+[WARNING] Background texture missing: background_castle, using floor tile as fallback
+[INFO] Background created: background_castle
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Castle
+[INFO] Loaded level: Castle
+[INFO] Player recreated on new location
+[INFO] Inventory updated: Health Potion x1, Dungeon Key x1
+[INFO] Pickup collected
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[INFO] Loaded texture map: level_forest_floors
+[INFO] Loaded texture map: level_forest_walls
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[INFO] Loaded texture map: level_cave_floors
+[INFO] Loaded texture map: level_cave_walls
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[INFO] Loaded texture map: level_castle_floors
+[INFO] Loaded texture map: level_castle_walls
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Background created: background_forest
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] Inventory updated: Health Potion x3
+[INFO] Pickup collected
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[INFO] Loaded texture map: level_forest_floors
+[INFO] Loaded texture map: level_forest_walls
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[INFO] Loaded texture map: level_cave_floors
+[INFO] Loaded texture map: level_cave_walls
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[INFO] Loaded texture map: level_castle_floors
+[INFO] Loaded texture map: level_castle_walls
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Background created: background_forest
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] Inventory updated: Health Potion x3
+[INFO] Pickup collected
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[INFO] Loaded texture map: level_forest_floors
+[INFO] Loaded texture map: level_forest_walls
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[INFO] Loaded texture map: level_cave_floors
+[INFO] Loaded texture map: level_cave_walls
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[INFO] Loaded texture map: level_castle_floors
+[INFO] Loaded texture map: level_castle_walls
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Background created: background_forest
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] Inventory updated: Health Potion x3
+[INFO] Pickup collected
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[INFO] Loaded texture map: level_forest_floors
+[INFO] Loaded texture map: level_forest_walls
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[INFO] Loaded texture map: level_cave_floors
+[INFO] Loaded texture map: level_cave_walls
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[INFO] Loaded texture map: level_castle_floors
+[INFO] Loaded texture map: level_castle_walls
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Background created: background_forest
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[INFO] Loaded texture map: level_forest_floors
+[INFO] Loaded texture map: level_forest_walls
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[INFO] Loaded texture map: level_cave_floors
+[INFO] Loaded texture map: level_cave_walls
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[INFO] Loaded texture map: level_castle_floors
+[INFO] Loaded texture map: level_castle_walls
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Background created: background_forest
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] Inventory updated: Health Potion x3
+[INFO] Pickup collected
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[INFO] Loaded texture map: level_forest_floors
+[INFO] Loaded texture map: level_forest_walls
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[INFO] Loaded texture map: level_cave_floors
+[INFO] Loaded texture map: level_cave_walls
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[INFO] Loaded texture map: level_castle_floors
+[INFO] Loaded texture map: level_castle_walls
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Background created: background_forest
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] Inventory updated: Health Potion x3
+[INFO] Pickup collected
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[INFO] Loaded texture map: level_forest_floors
+[INFO] Loaded texture map: level_forest_walls
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[INFO] Loaded texture map: level_cave_floors
+[INFO] Loaded texture map: level_cave_walls
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[INFO] Loaded texture map: level_castle_floors
+[INFO] Loaded texture map: level_castle_walls
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Background created: background_forest
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] Inventory updated: Health Potion x3
+[INFO] Pickup collected
+[INFO] Boss defeated — exit unlocked
+[INFO] Inventory updated: Health Potion x3, Dungeon Key x1
+[INFO] Pickup collected
+[INFO] Player reached level exit
+[INFO] Level cleaned: Forest
+[WARNING] Background texture missing: background_cave, using floor tile as fallback
+[INFO] Background created: background_cave
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Cave
+[INFO] Loaded level: Cave
+[INFO] Player recreated on new location
+[INFO] Inventory updated: Health Potion x5, Dungeon Key x1
+[INFO] Pickup collected
+[INFO] Inventory updated: Health Potion x5, Dungeon Key x2
+[INFO] Pickup collected
+[INFO] Used health potion
+[INFO] Used health potion
+[INFO] Used health potion
+[INFO] Used health potion
+[INFO] Used health potion
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[INFO] Boss defeated — exit unlocked
+[INFO] Player reached level exit
+[INFO] Level cleaned: Cave
+[WARNING] Background texture missing: background_castle, using floor tile as fallback
+[INFO] Background created: background_castle
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Castle
+[INFO] Loaded level: Castle
+[INFO] Player recreated on new location
+[INFO] Inventory updated: Health Potion x1, Dungeon Key x2
+[INFO] Pickup collected
+[INFO] Used health potion
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[INFO] Inventory updated: Dungeon Key x2, Iron Sword x1
+[INFO] Pickup collected
+[INFO] Weapon equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[WARNING] Weapon already equipped
+[INFO] Boss defeated — exit unlocked
+[INFO] Player reached level exit
+[INFO] All locations cleared — victory!
+[INFO] Player reached level exit
+[INFO] All locations cleared — victory!
+[INFO] Player reached level exit
+[INFO] All locations cleared — victory!
+[INFO] Player reached level exit
+[INFO] All locations cleared — victory!
+[INFO] XYZRoguelike finished
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[INFO] Loaded texture map: level_forest_floors
+[INFO] Loaded texture map: level_forest_walls
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[INFO] Loaded texture map: level_cave_floors
+[INFO] Loaded texture map: level_cave_walls
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[INFO] Loaded texture map: level_castle_floors
+[INFO] Loaded texture map: level_castle_walls
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Background created: background_forest
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] XYZRoguelike finished
+[INFO] Game logger initialized (console and game_log.txt)
+[INFO] XYZRoguelike starting
+[INFO] Loading game resources
+[INFO] Loaded texture map: player
+[INFO] Loaded texture map: level_floors
+[INFO] Loaded texture map: level_walls
+[INFO] Loaded texture map: level_forest_floors
+[INFO] Loaded texture map: level_forest_walls
+[WARNING] Background fallback for background_forest: Failed to load resource 'background_forest' from 'Resources/Textures/Backgrounds/ForestField.png'
+[INFO] Loaded texture map: level_cave_floors
+[INFO] Loaded texture map: level_cave_walls
+[WARNING] Background fallback for background_cave: Failed to load resource 'background_cave' from 'Resources/Textures/Backgrounds/Cave.png'
+[INFO] Loaded texture map: level_castle_floors
+[INFO] Loaded texture map: level_castle_walls
+[WARNING] Background fallback for background_castle: Failed to load resource 'background_castle' from 'Resources/Textures/Backgrounds/Palace.png'
+[INFO] Loaded texture: background_default
+[INFO] CombatHud initialized
+[INFO] GameSession initialize
+[INFO] Starter inventory: Health Potion x1
+[WARNING] Background texture missing: background_forest, using floor tile as fallback
+[INFO] Background created: background_forest
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Forest
+[INFO] Loaded level: Forest
+[INFO] Inventory updated: Health Potion x3
+[INFO] Pickup collected
+[INFO] Boss defeated — exit unlocked
+[INFO] Inventory updated: Health Potion x3, Dungeon Key x1
+[INFO] Pickup collected
+[INFO] Player reached level exit
+[INFO] Level cleaned: Forest
+[WARNING] Background texture missing: background_cave, using floor tile as fallback
+[INFO] Background created: background_cave
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Cave
+[INFO] Loaded level: Cave
+[INFO] Player recreated on new location
+[INFO] Boss defeated — exit unlocked
+[INFO] Inventory updated: Health Potion x5, Dungeon Key x1
+[INFO] Pickup collected
+[INFO] Used health potion
+[INFO] Used health potion
+[INFO] Used health potion
+[INFO] Used health potion
+[INFO] Used health potion
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[WARNING] No health potion to use
+[INFO] Inventory updated: Dungeon Key x2
+[INFO] Pickup collected
+[INFO] Player reached level exit
+[INFO] Level cleaned: Cave
+[WARNING] Background texture missing: background_castle, using floor tile as fallback
+[INFO] Background created: background_castle
+[INFO] Spawning boss
+[INFO] Boss ready with 3 rotating abilities
+[INFO] Creating player entity
+[INFO] Player ready: HP 100/100, armor 10, attack on Space
+[INFO] Player spawned at level
+[INFO] Starting music: music
+[INFO] Music playback started
+[INFO] Level started: Castle
+[INFO] Loaded level: Castle
+[INFO] Player recreated on new location
+[INFO] Inventory updated: Health Potion x1, Dungeon Key x2
+[INFO] Pickup collected
+[INFO] Boss defeated — exit unlocked
+[INFO] Inventory updated: Health Potion x1, Dungeon Key x2, Iron Sword x1
+[INFO] Pickup collected
+[INFO] Player reached level exit
+[INFO] All locations cleared — victory!
+[INFO] XYZRoguelike finished
